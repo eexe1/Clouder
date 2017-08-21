@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Clouder Space
 
-You can use the [editor on GitHub](https://github.com/eexe1/eexe1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Clouder is a studio founded by students who love programming. We started from the Microsoft Imagine cup 2014. We had competed in many hackathons as well. We are open to any company who wants a software solution such as web application, mobile application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Showcase
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
