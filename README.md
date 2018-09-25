@@ -1,35 +1,18 @@
-## Clouder Space
+# Clouder Studio
 
-Clouder is a studio founded by students who love programming. We started from the Microsoft Imagine cup 2014. We had competed in many hackathons as well. We are open to any company who wants a software solution such as web application, mobile application.
+Clouder started in 2014 when a group of passionate students participating in Microsoft Imagine Cup. The studio has been open to design and develop solutions for enterprises ever since. Evan Tsai, the founder, is currently running this studio. The studio is specialised in Mobile App Development with Server Backend Development. If you have an idea or a concrete project, contact us and we will build it for you!
 
-### Showcase
+## Showcase
+
+### iBeacon TX
+
+Transmit iBeacon Signal Via Bluetooth. The program can let you store multiple Beacons so you can switch the signal to another beacon easily.
+
+[Repository](https://github.com/eexe1/BeaconTX)
 
 
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
+Email: <clouderjustmakeit@gmail.com>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eexe1/eexe1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
