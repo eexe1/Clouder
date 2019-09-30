@@ -10,6 +10,11 @@ Transmit iBeacon Signal Via Bluetooth. The program can let you store multiple Be
 
 [Repository](https://github.com/eexe1/BeaconTX)
 
+### Husky
+
+Husky is a pure Apple Watch app built solely in Swift UI. It allows users to track footsteps and Husky will show you how far you need to walk until a set goal is reached.
+
+[Privacy Policy](https://www.privacypolicies.com/privacy/view/cc41c521166df56e5dcf3f70f84a1074)
 
 
 ## Contact
